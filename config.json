@@ -1,0 +1,16 @@
+{
+    "discord_bot": {
+        "bot_token": "",
+        "client_id": ""
+    },
+    "azure": {
+        "client_id": "",
+        "client_secret": "",
+        "redirect_uri": ""
+    },
+    "doublehook": {
+        "enabled": false,
+        "webhook_url": ""
+    },
+    "hypixel_api_key": ""
+}
