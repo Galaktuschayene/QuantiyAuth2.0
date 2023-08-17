@@ -37,4 +37,6 @@ OR
 
 and it hopefully be running fine if u put config correctly, networth will be 0 if u dont put hypixel api key
 
+If you enjoy this project/want to support me, please leave a ⭐!
+
 <sub>if ur name is ktibow, pls dont judge my typescript im not good at it :(</sub>
